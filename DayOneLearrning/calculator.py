@@ -10,7 +10,7 @@ print("4.Divide")
 
 while True:
     # Take input from the user
-    operator = input("Enter number: ")
+    operator = input("Enter operator option: ")
 
     if operator in ('1', '2', '3', '4'):
         firstnum = float(input("Enter first number: "))
