@@ -31,6 +31,9 @@ while True:
 
         # add an additional statement here to calculate the power of the first number by the second number
         # for example, firstnum is 2, secondnum is 4, so you will calculate 2 to the power of 4 
+        # you can calculate x to the power of y with the use of the ** operator
+        # use the if/elif statement structure above to make a new statement for this!
+        
         # you will also need to edit the code above to add an additional option (5)
         # this means adding another print statement and an additional input option
 
